@@ -16,4 +16,5 @@ do
         Console.WriteLine("Number is Odd");
     }
 
-} while (
+} while (answer == "Y" || answer == "y");
+
